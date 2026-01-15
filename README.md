@@ -1,12 +1,12 @@
 # Zalando 데이터셋 샘플
 
-<h2>1001개의 Zalando 제품으로 구성된 샘플 データセット</h2>
+<h2>1001개의 Zalando 제품으로 구성된 샘플 데이터셋</h2>
 
 ![Zalando dataset header](https://github.com/bright-kr/Zalando-dataset-samples/blob/main/Zalando-datasets.png)
 
-1000개 이상의 레코드를 포함하는 Zalando データセット 샘플입니다. データセット는 <b>Bright Data API</b>를 사용하여 추출되었습니다.
+1000개 이상의 레코드를 포함하는 Zalando 데이터셋 샘플입니다. 데이터셋는 <b>Bright Data API</b>를 사용하여 추출되었습니다.
 
-<h2>Zalando データセット에 포함되는 일부 데이터 포인트:</h2>
+<h2>Zalando 데이터셋에 포함되는 일부 데이터 포인트:</h2>
 
 * ```domain```: 제품이 속한 도메인 또는 카테고리
 * ```country_code```: 제품과 연관된 국가 코드
@@ -29,19 +29,19 @@
 그 외에도 다양한 항목이 포함됩니다.
 
 이는 "Zalando products"
-データセット에서 파생된 샘플 서브셋이며, 해당 データセット에는 <b>9.7M개 이상의 레코드</b>가 포함되어 있습니다.
+데이터셋에서 파생된 샘플 서브셋이며, 해당 데이터셋에는 <b>9.7M개 이상의 레코드</b>가 포함되어 있습니다.
 
-사용 가능한 データセット 파일 형식: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
+사용 가능한 데이터셋 파일 형식: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
 
-データセット 전달 유형 옵션: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+데이터셋 전달 유형 옵션: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
 
 업데이트 주기: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
 
 추출된 데이터 포인트에 추가로 제공 가능한 데이터 강화: <b>Based on request.</b>
 
-<b>[전체 Zalando データセット 받기](https://brightdata.co.kr/products/datasets/zalando)</b>.
+<b>[전체 Zalando 데이터셋 받기](https://brightdata.co.kr/products/datasets/zalando)</b>.
 
-<h2>Zalando データセット의 활용 사례는 무엇입니까?</h2>
+<h2>Zalando 데이터셋의 활용 사례는 무엇입니까?</h2>
 
 <h3>1. Pricing Optimization</h3>
 Zalando 제품 및 카테고리를 경쟁사와 비교하여 가격 전략을 수립하고 동적 가격 책정 모델을 구현합니다.
@@ -50,8 +50,8 @@ Zalando 제품 및 카테고리를 경쟁사와 비교하여 가격 전략을 �
 재고 격차를 식별하고, 특정 제품에 대한 수요 증가를 추적하며, Zalando의 제품 범위 내에서 트렌딩 아이템을 강조하기 위해 활용합니다.
 
 <h3>3. Market Strategy Optimization</h3>
-Zalando データセット를 활용하여 주요 트렌드와 고객 선호도를 분석함으로써 시장 전략을 강화합니다.
+Zalando 데이터셋를 활용하여 주요 트렌드와 고객 선호도를 분석함으로써 시장 전략을 강화합니다.
 
-<h2>학술 연구자 및 NGO를 위한 Webスクレイピング 도구 및 データセット 무료 이용</h2>
+<h2>학술 연구자 및 NGO를 위한 Web스크레이핑 도구 및 데이터셋 무료 이용</h2>
 
-Bright Initiative는 다양한 환경 및 사회적 목적을 촉진하는 주요 학술 기관 및 연구자, NGO 및 NPO에 Bright Data의 <b>[Web Scraper APIs](https://brightdata.co.kr/products/web-scraper)</b> 및 <b>[즉시 사용 가능한 データセット](https://brightdata.co.kr/products/datasets)</b>에 대한 접근을 제공합니다. <b>[여기](https://brightinitiative.com)</b>에서 신청서를 제출할 수 있습니다.
+Bright Initiative는 다양한 환경 및 사회적 목적을 촉진하는 주요 학술 기관 및 연구자, NGO 및 NPO에 Bright Data의 <b>[Web Scraper APIs](https://brightdata.co.kr/products/web-scraper)</b> 및 <b>[즉시 사용 가능한 데이터셋](https://brightdata.co.kr/products/datasets)</b>에 대한 접근을 제공합니다. <b>[여기](https://brightinitiative.com)</b>에서 신청서를 제출할 수 있습니다.
